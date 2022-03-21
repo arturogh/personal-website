@@ -1,2 +1,3 @@
-# personal-website
-Repo for my personal website
+# Readme
+
+This is my personal website. It is also a work in progress.
